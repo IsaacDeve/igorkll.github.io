@@ -5,16 +5,20 @@ body {
 .image {
     width: 60%;
     height: 60%;
+    align-items: center;
 }
 
 .text {
-    color: whitesmoke;
+    color: rgb(160, 250, 157);
     font-size: medium;
     padding: 0%;
+    text-align: center;
+    text-decoration:solid;
 }
 
 .list {
     color: rgb(255, 255, 255);
+    align-items: center;
     list-style-type: disc;
 }
 
